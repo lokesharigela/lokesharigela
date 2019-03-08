@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # microservices-example
 # Build  
 Execute the following commands to build and run 
@@ -18,3 +19,7 @@ docker ps | awk '{print $1}' | xargs docker stop
 
 Remove postgres container - to start with a clean slate  
 docker rm -v postgres 
+=======
+# microservice_demo
+microservice_demo
+>>>>>>> 6609ee8870c037b5a8d38a79e732cc1f7f183958
