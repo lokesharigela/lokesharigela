@@ -1,4 +1,4 @@
-package com.example.catalogservice;
+package com.example.catalog;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -17,4 +17,6 @@ public class Product {
     private String name;
 
     private String description;
+
+    private String imageId;
 }
