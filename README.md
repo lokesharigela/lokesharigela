@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # microservices-example
 # Build  
 Execute the following commands to build and run 
